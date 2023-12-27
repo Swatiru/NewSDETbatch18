@@ -1,4 +1,4 @@
-package class15;
+package class15constructor;
 
 public class Task3 {
     String name;

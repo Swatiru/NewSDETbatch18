@@ -1,15 +1,15 @@
 package class3;
 
-public class E4 {
+public class E4DoubleComparsion {
     public static void main(String[] args) {
 
-        double a=10;
-        double b=20;
-        c=a>b;
-        if (c){
-        System.out.println(c);
+        double a=15.2;
+        double b=10.2;
 
+        if (a>b) {
+            System.out.println("double value " + a + "is larger than " + b);
 
+        }
 
 
     }

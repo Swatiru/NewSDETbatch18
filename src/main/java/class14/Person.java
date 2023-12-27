@@ -1,6 +1,7 @@
 package class14;
 
-public class Persion {
+public class Person {
+    static int noOfEye=2;
     String name;
     int age;
     double weight;

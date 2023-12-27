@@ -1,6 +1,6 @@
 package class9;
 
-public class E8ArraysQiz {
+public class E8ArrayQuiz {
     public static void main(String[] args) {
 
 

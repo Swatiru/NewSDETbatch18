@@ -1,6 +1,6 @@
 package class9;
 
-public class E10ArraysQuiz {
+public class E10ArraysHWQuiz {
     public static void main(String[] args) {
         //Using 2D array create a grocery list.
         //Inside you should have an array of veggies, fruits, dairy and sweets.

@@ -1,2 +1,5 @@
-package class21Abstraction;public class Animal2 {
+package class21Abstraction;
+
+public class Animal2 {
+
 }

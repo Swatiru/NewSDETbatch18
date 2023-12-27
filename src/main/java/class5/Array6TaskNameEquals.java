@@ -1,6 +1,6 @@
 package class5;
 
-public class Array6task {
+public class Array6TaskNameEquals {
     public static void main(String[] args) {
         String[] names={"aidios","zeesan","abid","sharif","zeesan"};
          int count=0;

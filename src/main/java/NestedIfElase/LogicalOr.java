@@ -1,2 +1,15 @@
-package NestedIfElase;public class LogicalOr {
-}
+package NestedIfElase;
+
+public class LogicalOr {
+    public static void main(String[] args) {
+        String welcomeMessage="Welcome Admin";
+        boolean dashboardFormDisplayed=false;
+
+        if(welcomeMessage.equals("Welcome Admin") || dashboardFormDisplayed) {
+            System.out.println("Admin user is successfully logged in");
+        } else {
+            System.out.println("Cannot login using admin credentials");
+        }
+        }
+    }
+

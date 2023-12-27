@@ -1,4 +1,4 @@
-package class19;
+package class19Override;
 /*Vehicle Hierarchy Task: Create a class Vehicle with subclasses like Car, Truck, Motorcycle, and Bicycle.
 Define common attributes like speed, color, and fuelType in the Vehicle class.
 Override methods in the subclasses, like accelerate and brake, with specific behaviors.
@@ -25,10 +25,9 @@ public class Vehicle {
 
     public void printInfo(){
             System.out.println(speed+" "+color+" "+fuelType);
-
-        }
     }
-     class Car extends Vehicle{
+    }
+    class Car extends Vehicle{
     public Car(double speed, String color, String fuelType, int carDoor) {
         super(speed, color, fuelType);
     }
@@ -76,7 +75,6 @@ public class Vehicle {
             public Bicycle(double speed, String color, String fuelType) {
                 super(speed, color, fuelType);
             }
-
             @Override
             public void accelerate() {
                 System.out.println("bicycle accelerate slow");

@@ -1,4 +1,4 @@
-package class18;
+package class18Overload;
 
 public class AnimalTester {
     public static void main(String[] args) {

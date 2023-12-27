@@ -1,4 +1,4 @@
-package class16;
+package class16inheritance;
 
 public class MultilevelTester {
     public static void main(String[] args) {

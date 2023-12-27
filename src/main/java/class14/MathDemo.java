@@ -1,2 +1,5 @@
-package class14;public class MathDemo {
+package class14;
+
+public class MathDemo {
+
 }

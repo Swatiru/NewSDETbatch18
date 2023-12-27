@@ -1,4 +1,4 @@
-package class17;
+package class17SuperKeyWord;
 
 public class Parent {
     String name="swati";

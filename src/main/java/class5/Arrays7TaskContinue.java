@@ -1,6 +1,6 @@
 package class5;
 
-public class Arrays7Task {
+public class Arrays7TaskContinue {
     public static void main(String[] args) {
     int[] num={10,45,12,47,20,30};
     for(int i=0; i< num.length ; i++){

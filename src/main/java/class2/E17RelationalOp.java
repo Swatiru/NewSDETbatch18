@@ -1,10 +1,13 @@
 package class2;
 
-public class E16RelationalOp {
+public class E17RelationalOp {
     public static void main(String[] args) {
-        System.out.println(10>5);
-        System.out.println(10<5);
-        boolean isTrueorFalse=45>50;
-        System.out.println(isTrueorFalse);
+
+        int num1 = 10;
+        int num2 = 20;
+        System.out.println(num1 > num2);
+        System.out.println(num1 < num2);
+        System.out.println(num1 == num2);
+        System.out.println(num1 != num2);
     }
 }

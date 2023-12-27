@@ -1,2 +1,5 @@
-package review7;public class E2Variable {
+package review7;
+
+public class E2Variable {
+
 }

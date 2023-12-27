@@ -1,4 +1,7 @@
 package NestedIfElase;
 
-public class SwitchAgain {
+public class SwitchAndScanner {
+    public static void main(String[] args) {
+
+    }
 }

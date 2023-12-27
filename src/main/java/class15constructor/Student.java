@@ -1,4 +1,4 @@
-package class15;
+package class15constructor;
 //write java class students that have a constructor which takes students name and 3 subject grades
 //inside your class also have a method to calculate Average grade. test student class for 2 different marks.
 //your program should print an average mark of each student name.

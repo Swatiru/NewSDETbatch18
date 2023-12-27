@@ -1,2 +1,4 @@
-package pQuestion;public class Switch {
+package pQuestion;
+
+public class Switch {
 }

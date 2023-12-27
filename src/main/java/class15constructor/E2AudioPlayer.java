@@ -1,4 +1,4 @@
-package class15;
+package class15constructor;
 
 import javazoom.jl.decoder.JavaLayerException;
 import javazoom.jl.player.Player;

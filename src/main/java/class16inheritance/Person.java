@@ -1,4 +1,4 @@
-package class16;
+package class16inheritance;
 
 public class Person {
     String name;

@@ -1,4 +1,4 @@
-package class18;
+package class18Overload;
 
 public class person {
     private String name;

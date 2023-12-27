@@ -1,4 +1,4 @@
-package class15;
+package class15constructor;
 
 public class DogTester {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package class15;
+package class15constructor;
 //write a java class that will have a constructor:onewith parameter one with without parameters.
 //create a separate test class where you will execute both of the constructor 1 by 1.
 

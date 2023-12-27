@@ -1,4 +1,4 @@
-package class18;
+package class18Overload;
 
 public class Animal {
     private String name;

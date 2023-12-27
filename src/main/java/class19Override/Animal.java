@@ -1,4 +1,4 @@
-package class19;
+package class19Override;
 
 public class Animal {
     private String name;

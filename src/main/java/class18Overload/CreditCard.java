@@ -1,4 +1,4 @@
-package class18;
+package class18Overload;
 /*create a class CreditCard create an instance method that will calculate interest based on given balance.
 * Create 2 subclasses: Visa and AX.in AX class override method calculate interest. call the method by crating
 * an object of each of the three classes*/

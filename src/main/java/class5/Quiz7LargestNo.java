@@ -1,6 +1,6 @@
 package class5;
 
-public class Quiz7 {
+public class Quiz7LargestNo {
     //From an array of integer elements find the largest number.
     public static void main(String[] args) {
         int[] number={30,50,70,20,80};

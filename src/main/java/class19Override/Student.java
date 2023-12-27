@@ -1,4 +1,4 @@
-package class19;
+package class19Override;
 //Create a Class Student that will have 3 subclasses as SyntaxStudent, CollegeStudent, SchoolStudent.
 //Define 3 common behavior within parent class and override some of the methods in child classes
 //Define some methods specific to child classes
