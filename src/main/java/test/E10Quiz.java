@@ -1,3 +1,5 @@
+package test;
+
 public class E10Quiz {
     public static void main(String[] args) {
 

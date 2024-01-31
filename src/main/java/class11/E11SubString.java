@@ -9,6 +9,8 @@ public class E11SubString {
         String str2="java is fun";
         System.out.println(str2.substring(0,4));
         System.out.println(str2.substring(5,7));
+        System.out.println(str2.substring(0,str2.length()));
+        System.out.println(str2.substring(5,str2.length()));
 
     }
 }

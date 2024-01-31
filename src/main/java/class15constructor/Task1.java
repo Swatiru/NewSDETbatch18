@@ -4,6 +4,7 @@ package class15constructor;
 
 public class Task1 {
     Task1(){
+
         System.out.println("1");
     }
     Task1(String name){

@@ -1,3 +1,5 @@
+package test;
+
 public class T4Rectan {
     public static void main(String[] args) {
         int height=5;

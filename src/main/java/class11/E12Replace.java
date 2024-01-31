@@ -7,6 +7,8 @@ public class E12Replace {
         System.out.println(str.replace("18" ,"17"));
         System.out.println(str.replace("B" ,"P"));
         System.out.println(str.replace("o" ,"r"));
+        System.out.println(str.replace("Batch" ,"swati"));
+        System.out.println(str.equalsIgnoreCase(str.replace("batch","class")));
 
     }
 }

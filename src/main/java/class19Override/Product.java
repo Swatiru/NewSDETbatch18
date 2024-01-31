@@ -14,12 +14,14 @@ public class Product {
         this.SKU = SKU;
     }
     public double getPrice(){
-    return price;
+
+        return price;
     }
     public String getName(){
         return name;
     }
     public String getSKU(){
+
         return SKU;
     }
     public double calTax(){

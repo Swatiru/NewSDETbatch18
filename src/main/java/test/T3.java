@@ -1,3 +1,5 @@
+package test;
+
 public class T3 {
     public static void main(String[] args) {
         double number=3.9;

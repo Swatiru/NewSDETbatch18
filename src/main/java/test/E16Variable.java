@@ -1,3 +1,5 @@
+package test;
+
 public class E16Variable {
     public static void main(String[] args) {
         String firstname="swati";

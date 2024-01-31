@@ -1,3 +1,5 @@
+package test;
+
 public class E13ShortHand {
     public static void main(String[] args) {
         int num=100;
